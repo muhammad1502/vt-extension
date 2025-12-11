@@ -25,4 +25,4 @@ Since this is a developer tool, you can install it without the Chrome Web Store:
 3. A new tab will open with the scan results.
 
 ## 📜 License
-This project is open-source.
+This project is under the [MIT License](https://github.com/muhammad1502/vt-extension/blob/main/LICENSE).
